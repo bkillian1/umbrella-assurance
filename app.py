@@ -872,7 +872,7 @@ st.markdown("""
     border-bottom: 1px solid rgba(200,168,75,0.3);
 ">
   &#127891;&nbsp;
-  <strong style="color:#c8a84b;">Projet acad&#233;mique — M1 Actuariat</strong>
+  <strong style="color:#c8a84b;">Projet acad&#233;mique — M1 Assurance et Gestion des Risques</strong>
   &nbsp;&#183;&nbsp;
   Ce site est une simulation r&#233;alis&#233;e dans le cadre d&#39;un projet p&#233;dagogique.
   Les tarifs affich&#233;s sont calcul&#233;s &#224; partir de donn&#233;es actuarielles r&#233;elles mais ne constituent pas une offre commerciale.
