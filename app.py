@@ -186,7 +186,8 @@ div[data-testid="stDecoration"] { display: none; }
     font-weight: 800;
     font-size: 2.9rem;
     line-height: 1.15;
-    color: #ffffff;
+    color: #f0f0f0 !important;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.5);
     margin-bottom: 0.5rem;
 }
 
